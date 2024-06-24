@@ -1,0 +1,12 @@
+Collecting google-auth
+  Using cached google_auth-2.27.0-py2.py3-none-any.whl.metadata (4.7 kB)
+Collecting google-auth-oauthlib
+  Using cached google_auth_oauthlib-1.2.0-py2.py3-none-any.whl.metadata (2.7 kB)
+Collecting PyMuPDF
+  Using cached PyMuPDF-1.23.21-cp312-none-win_amd64.whl.metadata (3.4 kB)
+Collecting scikit-learn
+  Using cached scikit_learn-1.4.0-1-cp312-cp312-win_amd64.whl.metadata (11 kB)
+Collecting spacy==3.5.0
+  Using cached spacy-3.5.0.tar.gz (1.2 MB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'error'
